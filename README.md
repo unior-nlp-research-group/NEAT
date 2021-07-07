@@ -7,4 +7,3 @@ This dataset was created by extracting unstructured textual descriptions for ite
 *  Semantic Expansion
 *  Entity Evaluation
 
-As final results, 6,335 spans of texts are annotated together with their entity types according to a subset of the CIDOC CRM ontology.
