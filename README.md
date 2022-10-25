@@ -7,3 +7,5 @@ This dataset was created by extracting unstructured textual descriptions for ite
 *  Semantic Expansion
 *  Entity Evaluation
 
+Please, cite this work as:
+di Buono, M.P., Nolano, G., Monti, J. (in press) NEAT - Named Entities in Archaeological Texts: a Semantic Approach to Term Extraction and Classification. Digital Scholarship in the Humanities
